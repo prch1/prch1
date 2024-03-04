@@ -39,3 +39,12 @@ Atualmente estou me empenhando para me profissionalizar em tecnologias que envol
 Acesse meu Linkedin para maiores informações:
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardo-carvalho-a99b3323/)
+
+
+
+![snake gif](https://github.com/prch1/prch1/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
