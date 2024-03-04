@@ -7,6 +7,7 @@ e me interesso muito com o que a tecnologia pode fazer para melhorar o dia a dia
 🐙☁️👨🏿‍💻👾🏳️‍🌈
 
 ![PR's GitHub stats](https://github-readme-stats.vercel.app/api?username=prch1&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prch1&langs_count=8)
 
 ## Tecnologias que Utilizo no meu Dia a Dia e em Projetos Pessoais.
 
@@ -26,6 +27,10 @@ e me interesso muito com o que a tecnologia pode fazer para melhorar o dia a dia
 <img align="center" alt="azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 </div>
+
+<br>
+
+
 
 <br>
 
