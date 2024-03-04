@@ -40,9 +40,12 @@ Acesse meu Linkedin para maiores informações:
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardo-carvalho-a99b3323/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-
-![snake gif](https://github.com/prch1/prch1/blob/output/github-contribution-grid-snake.svg)
 
 
 
